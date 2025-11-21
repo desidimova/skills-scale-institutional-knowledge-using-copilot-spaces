@@ -75,7 +75,117 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designers
+
+### Role Summary
+UX Designers focus on creating user-facing workflows and ensuring usability best practices are followed throughout the product development cycle. They bridge the gap between user needs and technical implementation.
+
+### Responsibilities
+- Design intuitive user interfaces and interaction patterns
+- Conduct user research and usability testing
+- Create wireframes, mockups, and prototypes
+- Collaborate with Product Managers on user needs discovery
+- Hand off designs to Developers and validate implementation
+- Maintain design systems and style guides
+
+### Goals
+- Deliver user-centered designs that meet accessibility standards
+- Reduce friction in user workflows
+- Ensure consistent user experience across the product
+- Validate designs through user feedback and testing
+
+### Typical Communication
+- Design review sessions with PM and engineering
+- User research findings and usability reports
+- Design handoff documentation and style guides
+- Feedback on implementation fidelity during development
+
+---
+
+## Data Analysts
+
+### Role Summary
+Data Analysts define and monitor key success metrics, working closely with Product and Project leads to measure impact and guide data-driven decision making.
+
+### Responsibilities
+- Define KPIs and success metrics with Product Managers
+- Build and maintain dashboards and reports
+- Analyze product usage and project performance data
+- Identify trends, patterns, and insights from data
+- Support A/B testing and experimentation
+- Provide data-driven recommendations for product iterations
+
+### Goals
+- Enable informed decision-making through clear metrics
+- Measure and communicate product/project impact
+- Identify opportunities for improvement through data analysis
+- Maintain reliable and accessible data infrastructure
+
+### Typical Communication
+- Weekly metrics reviews with PM and PdM
+- Data insights presentations to stakeholders
+- Dashboard documentation and metric definitions
+- Analysis reports supporting feature decisions
+
+---
+
+## Customer Success Managers
+
+### Role Summary
+Customer Success Managers bridge the gap between users and the project team, bringing valuable stakeholder insights and ensuring smooth adoption of new features and releases.
+
+### Responsibilities
+- Gather and communicate user feedback to product and project teams
+- Participate in planning sessions with customer perspective
+- Coordinate release communications and user documentation
+- Support customer onboarding and feature adoption
+- Identify patterns in support requests and escalations
+- Contribute to retrospectives with customer insights
+
+### Goals
+- Maximize customer satisfaction and product adoption
+- Reduce support escalations through proactive communication
+- Ensure customer voice influences product decisions
+- Enable smooth rollout of new features and changes
+
+### Typical Communication
+- Feedback summaries shared with PM and engineering
+- Release communication plans and customer-facing docs
+- Input during sprint planning and retrospectives
+- Customer success stories and adoption metrics
+
+---
+
+## Security Leads
+
+### Role Summary
+Security Leads ensure that security best practices are integrated throughout the development lifecycle, from design through deployment, and lead incident response when security issues arise.
+
+### Responsibilities
+- Review designs, code, and architectures for security implications
+- Conduct security assessments and threat modeling
+- Manage security scanning tools and vulnerability remediation
+- Lead security incident response and root cause analysis
+- Partner with Project and Product Managers on secure delivery timelines
+- Maintain security documentation and compliance requirements
+- Provide security training and guidance to the team
+
+### Goals
+- Prevent security vulnerabilities from reaching production
+- Minimize time to detect and respond to security incidents
+- Maintain compliance with security standards and regulations
+- Foster a security-conscious development culture
+
+### Typical Communication
+- Security review feedback on designs and PRs
+- Vulnerability reports and remediation plans
+- Incident response updates and post-mortems
+- Security requirements and compliance guidance
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+- These roles collaborate across the project lifecycle: UX Designers and Data Analysts inform product decisions, Customer Success Managers provide user insights, and Security Leads ensure secure delivery.
 

@@ -20,6 +20,8 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+Additional roles such as UX Designers, Data Analysts, Customer Success Managers, and Security Leads collaborate with the core team throughout the project lifecycle. See [Roles and Personas](octoacme-roles-and-personas.md) for detailed descriptions of all roles.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
