@@ -94,7 +94,7 @@ Capture learnings after each sprint, release, or milestone. Convert insights int
 
 ### Regular Cadences
 - **Daily Standups** (15 min): Progress, blockers, and dependencies
-- **Twice-Weekly Team Syncs**: Delivery progress and updates (or as agreed)
+- **Team Syncs** (2x/week): Delivery progress and updates (or as agreed)
 - **Weekly PM + PdM Sync**: Alignment on priorities and escalations
 - **Monthly Stakeholder Updates**: High-level progress and strategic decisions
 - **Sprint/Milestone Demos**: Show completed work and gather feedback
@@ -151,7 +151,7 @@ Every project defines its own DoD, typically including:
 
 ### For New Team Members
 1. Read this README to understand our overall approach
-2. Review the [detailed overview](octoacme-project-management-overview.md) for principles and scope
+2. Review the [Project Management Overview](octoacme-project-management-overview.md) for principles and scope
 3. Familiarize yourself with your [role and responsibilities](octoacme-roles-and-personas.md)
 4. Review current project documentation in your project repository
 5. Attend team standups and sync meetings to get oriented
@@ -183,9 +183,9 @@ Every project defines its own DoD, typically including:
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning and improving
 
 ### Using This Documentation with Copilot Spaces
-To make this documentation available to GitHub Copilot Spaces:
+GitHub Copilot Spaces provides AI-powered assistance using your project's context and documentation. To make this documentation available:
 1. Add process-specific docs to the `.copilot/` directory in your project repository
-2. Copilot Spaces will use them as context for project-specific guidance
+2. Copilot Spaces will automatically use them as context for project-specific guidance
 3. Keep the Project Charter updated in your project repo for current context
 
 ---
