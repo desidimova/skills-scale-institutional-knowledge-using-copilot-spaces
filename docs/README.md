@@ -31,6 +31,13 @@ Validate quality through comprehensive testing approaches including unit, integr
 ### Stakeholders
 Provide inputs, approvals, and strategic direction. Receive regular updates and participate in key decision points.
 
+### Additional Collaborating Roles
+OctoAcme projects also involve specialized roles that contribute throughout the project lifecycle:
+- **UX Designers**: Create user-facing workflows and ensure usability best practices
+- **Data Analysts**: Define and monitor success metrics to guide data-driven decisions
+- **Customer Success Managers**: Bridge feedback between users and the project team
+- **Security Leads**: Ensure security best practices are integrated throughout development
+
 **📖 Learn more**: [Detailed Roles and Personas](octoacme-roles-and-personas.md)
 
 ## Project Lifecycle
